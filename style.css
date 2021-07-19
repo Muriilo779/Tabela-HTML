@@ -1,0 +1,30 @@
+.teste{
+display: block;
+width: 70%;
+margin-left: auto;
+margin-right: auto;
+}
+.fonte{
+    font-family: 'Nunito', sans-serif;
+}
+.titulo{
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+}
+table{
+    margin: 20px 0 40px;
+    border: 1px solid #E8E8DB;;
+}
+.cabeca{
+    background-color: #FFDF65;
+    font-weight: bold;
+}
+.corpo{
+    background-color: #E8E8DB;
+}
+td{
+    padding: 5px;
+    border: 1px solid #dbdbcf;
+    margin: 10px;
+}
